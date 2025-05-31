@@ -2,6 +2,7 @@
 Gives a discord bot an online presence
 
 Image: nzspongebob/simple-online-bot:latest
+Docker Hub - https://hub.docker.com/r/nzspongebob/simple-online-bot
 
 A Simple Discord Online Presence Bot
 
